@@ -1,0 +1,13 @@
+{
+  "name": "investlab-workspace",
+  "version": "1.0.0",
+  "description": "InvestLab - Learn Investing by Doing (Full-Stack FinTech Platform)",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "test:backend": "npm --prefix backend test",
+    "test:frontend": "npm --prefix frontend test",
+    "build:backend": "npm --prefix backend run build",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
